@@ -1,3 +1,1 @@
-# Header
-
-## Hello
+# Hello
